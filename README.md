@@ -1,6 +1,8 @@
 # React Masterclass
 
-## Using:
+Learn and dominate the React ecosystem once and for all.
+
+### Using:
 
 - Styled Components
 - Recoil
